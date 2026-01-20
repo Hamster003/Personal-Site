@@ -72,5 +72,6 @@ pagination.pagerSize     = 10
    name = "signal"
    url = "https://signal.me/#eu/usINd636F4D4Wm1RfNxHSKTYhxYgUds8TapG7n-ITDD92Z2UvgBLi6QuBrZMiG7w"
 
- [[params.footer]]
-   bottomText = "mailto:nathan@n-jacobson.com"
+ [[params.social]]
+    name = "email"
+    url = "mailto:nathan@n-jacobson.com"

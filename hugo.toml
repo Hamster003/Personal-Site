@@ -11,7 +11,7 @@ pagination.pagerSize     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "My name is Nathan Jacobson. \nI'm a student at RRC Polytech in the Cyber Security program. \nI'm really interested in Information Security and find the whole field extremly interesting. \nIn my free time I like to mess around with my server at home and try different selfhosted software out. \nI'm also slowly learning Koine Greek, and do a little bit of photography hear and there. "
+  homeSubtitle = "My name is Nathan Jacobson."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -52,9 +52,9 @@ pagination.pagerSize     = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "about"
+    name       = "About Me"
+    url        = "/about"
 
   # and submenus
   [[menu.main]]

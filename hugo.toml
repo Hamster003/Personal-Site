@@ -71,11 +71,6 @@ pagination.pagerSize     = 10
 
 
 [params.footer]
-  trademark = 2026
-  author = true
-  copyright = true
-  rss = false
-  topText = []
   bottomText = [
     "<a href=\"mailto:nathan@n-jacobson.com">Contact Me</a>"
   ]

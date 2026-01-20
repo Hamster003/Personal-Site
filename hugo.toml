@@ -61,3 +61,10 @@ pagination.pagerSize     = 10
     identifier  = "resume"
     name        = "Resume"
     url         = "/resume"
+
+
+
+ [[params.social]]
+   name = "linkedin"
+   url = "https://www.linkedin.com/in/nathan-jacobson-87660b32a/"
+

@@ -11,13 +11,7 @@ pagination.pagerSize     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = """
-My name is Nathan Jacobson. 
-I'm a student at RRC Polytech in the Cyber Security program. 
-I'm really interested in Information Security and find the whole field extremly interesting. 
-In my free time I like to mess around with my server at home and try different selfhosted software out. 
-I'm also slowly learning Koine Greek, and do a little bit of photography hear and there. 
-"""
+  homeSubtitle = "My name is Nathan Jacobson. <br>I'm a student at RRC Polytech in the Cyber Security program. <br>I'm really interested in Information Security and find the whole field extremly interesting. <br>In my free time I like to mess around with my server at home and try different selfhosted software out. <br>I'm also slowly learning Koine Greek, and do a little bit of photography hear and there. "
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

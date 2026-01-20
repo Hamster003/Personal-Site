@@ -12,11 +12,11 @@ pagination.pagerSize     = 10
 
   # Subtitle for home
   homeSubtitle = """
-My name is Nathan Jacobson.\
-I'm a student at RRC Polytech in the Cyber Security program.\
-I'm really interested in Information Security and find the whole field extremly interesting.\
-In my free time I like to mess around with my server at home and try different selfhosted software out.\
-I'm also slowly learning Koine Greek, and do a little bit of photography hear and there.
+My name is Nathan Jacobson. 
+I'm a student at RRC Polytech in the Cyber Security program. 
+I'm really interested in Information Security and find the whole field extremly interesting. 
+In my free time I like to mess around with my server at home and try different selfhosted software out. 
+I'm also slowly learning Koine Greek, and do a little bit of photography hear and there. 
 """
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.

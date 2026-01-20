@@ -58,13 +58,6 @@ pagination.pagerSize     = 10
 
   # and submenus
   [[menu.main]]
-    identifier  = "parent"
-    name        = "Parent"
-    url         = "/parent"
-    hasChildren = true
-
-  [[menu.main]]
-    identifier  = "child"
-    name        = "Child"
-    url         = "/parent/child"
-    parent      = "parent"
+    identifier  = "resume"
+    name        = "Resume"
+    url         = "/resume"

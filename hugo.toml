@@ -34,13 +34,13 @@ pagination.pagerSize     = 10
 
 [languages]
   [languages.en]
-    title = "Nathan Jacobson2"
+    title = "Hello, welcome here"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "Nathan Jacobson's personal site"
+    subtitle  = "My name is Nathan. I'm a student at RRC Polytech in the Cyber Security program. I'm really interested in Information Security and find the whole field extremly interesting. In my free time I like to mess around with my server at home and try different selfhosted software out."
 
     [languages.en.params.logo]
       logoText = "Nathan Jacobson"

@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://n-jacobson.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Nathan Jacobson'
 theme = 'hello-friend-ng'
+[contentTypes]
+  [contentTypes.'text/html']
+  [contentTypes.'text/markdown']

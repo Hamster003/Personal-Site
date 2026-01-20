@@ -61,3 +61,21 @@ pagination.pagerSize     = 10
     identifier  = "resume"
     name        = "Resume"
     url         = "/resume"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/nathan-jacobson-87660b32a/"
+[[params.social]]
+  name = "signal"
+  url = "https://signal.me/#eu/usINd636F4D4Wm1RfNxHSKTYhxYgUds8TapG7n-ITDD92Z2UvgBLi6QuBrZMiG7w"
+
+
+[params.footer]
+  trademark = 2026
+  author = true
+  copyright = true
+  rss = false
+  topText = []
+  bottomText = [
+    "<a href=\"mailto:nathan@n-jacobson.com">Contact Me</a>"
+  ]

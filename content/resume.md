@@ -65,6 +65,3 @@ Education
 -   Louis Riel Arts and Technology Centre Information Systems February 2024-2025
     
 
-  
-
-References available upon request.

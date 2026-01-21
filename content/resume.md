@@ -1,5 +1,6 @@
 Here is my resume, if you have any questions you can send me an email at [nathan@n-jacobson.com](mailto:nathan@n-jacobson.com)
-
+  
+  
 Nathan Jacobson
 
 (204) 667-5795, [nathan@n-jacobson.com](mailto:nathan@n-jacobson.com)

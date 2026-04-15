@@ -38,7 +38,14 @@ Leadership
     
 -   Coordinating a division-wide Career and Post Secondary Symposium called CAPS as part of a small student leadership team.
     
+  
 
+Education
+
+-   RRC Polytech Cybersecurity 2025-Present
+    
+-   Louis Riel Arts and Technology Centre Information Systems February 2024-2025
+    
   
 
 Work and Volunteer Experience
@@ -54,14 +61,4 @@ Work and Volunteer Experience
 -   Children's Ministry Winnipeg Evangelical Free Church September 2022-Present
     
 -   Leader in Training Adventurers Day Camp Summers of 2021-2023
-    
-
-  
-
-Education
-
--   RRC Polytech Cybersecurity 2025-Present
-    
--   Louis Riel Arts and Technology Centre Information Systems February 2024-2025
-    
 

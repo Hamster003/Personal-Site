@@ -50,6 +50,8 @@ Education
 
 Work and Volunteer Experience
 
+-   Program Coordinator Adventurers Day Camp May-August 2026
+    
 -   IT Team Winnipeg Evangelical Free Church July 2023-Present
     
 -   Event Assembly Team Member/Leader Winnipeg Evangelical Free Church September 2022-Present

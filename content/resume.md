@@ -30,8 +30,10 @@ Hardware and Networking
 
 Leadership
 
+-   Running and planning camp programing for a 600 camper camp along side a team of 5 other individuals at Adventurers Day Camp
+     
 -   Leading a small group through different activities at various locations throughout the city at Adventurers Day Camp.
-    
+     
 -   Planning and executing event assembly.
     
 -   Coaching my team through the CyberPatriot competition.

@@ -4,9 +4,9 @@ Here is my resume, if you have any questions you can send me an email at [nathan
 
 
 
-Skills and Experience
+##Skills and Experience
 
-Operating Systems and Software
+###Operating Systems and Software
 
 Experience creating a server running a hypervisor with multiple VMs running, a media server, a reverse proxy with proper signed certificates and other containerized software using docker and docker compose. 
 
@@ -22,7 +22,7 @@ Diagnosing many hardware and software issues on Windows and Linux systems.
 
 
 
-Hardware and Networking
+###Hardware and Networking
 
 Midsized structured cabling installation, along with IP camera installation. 
 
@@ -38,7 +38,7 @@ Installing a segmented home network and configured the networking equipment to m
 
 
 
-Leadership
+###Leadership
 
 Explaining and executing activities for a camps of between 70 and 110 people. 
 
@@ -54,7 +54,7 @@ Coordinating a division-wide Career and Post Secondary Symposium called CAPS as 
 
 
 
-Education
+##Education
 
 RRC Polytech Cybersecurity 2025-Present
 
@@ -64,7 +64,7 @@ Louis Riel Arts and Technology Centre Information Systems February 2024-2025
 
 
 
-Work and Volunteer Experience
+##Work and Volunteer Experience
 
 IT Team Winnipeg Evangelical Free Church July 2023-Present
 

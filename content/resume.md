@@ -79,5 +79,5 @@ Audio Visual Team Winnipeg Evangelical Free Church January 2022-Present
 
 Children's Ministry Winnipeg Evangelical Free Church September 2022-Present
     
--   Leader in Training Adventurers Day Camp Summers of 2021-2023
+Leader in Training Adventurers Day Camp Summers of 2021-2023
 

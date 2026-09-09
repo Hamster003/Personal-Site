@@ -3,6 +3,7 @@ Here is my resume, if you have any questions you can send me an email at [nathan
   
 
 
+
 Skills and Experience
 
 Operating Systems and Software
@@ -16,6 +17,7 @@ Designing a script for use in the CyberPatriot competition composed of approxima
 Daily use of openSUSE Tumbleweed, a Linux distribution related to Suse Linux Enterprise. 
 
 Diagnosing many hardware and software issues on Windows and Linux systems. 
+
 
 
 
@@ -35,6 +37,7 @@ Installing a segmented home network and configured the networking equipment to m
 
 
 
+
 Leadership
 
 Explaining and executing activities for a camps of between 70 and 110 people. 
@@ -50,11 +53,13 @@ Coordinating a division-wide Career and Post Secondary Symposium called CAPS as 
 
 
 
+
 Education
 
 RRC Polytech Cybersecurity 2025-Present
 
 Louis Riel Arts and Technology Centre Information Systems February 2024-2025
+
 
 
 

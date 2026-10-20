@@ -206,3 +206,10 @@ h1 span, .brand span { color: var(--accent); }
   .contact-panel { align-items: flex-start; flex-direction: column; }
   .site-footer { flex-direction: column; gap: 6px; }
 }
+
+.resume-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font: inherit;
+  color: var(--muted);
+}
